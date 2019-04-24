@@ -2,7 +2,8 @@
 
 int main(void)
 {	
-	
+	int test;
+	test = 1;
 	extern struct PLANNING_PATH DEBUG_PLANNING_PATH[];
 
 	NOW_PATH = DEBUG_PLANNING_PATH;
